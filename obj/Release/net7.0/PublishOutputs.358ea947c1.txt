@@ -1,0 +1,7 @@
+C:\Users\restrian\source\repos\appservicedemo\bin\Release\net7.0\publish\appservicedemo.exe
+C:\Users\restrian\source\repos\appservicedemo\bin\Release\net7.0\publish\appsettings.Development.json
+C:\Users\restrian\source\repos\appservicedemo\bin\Release\net7.0\publish\appsettings.json
+C:\Users\restrian\source\repos\appservicedemo\bin\Release\net7.0\publish\appservicedemo.dll
+C:\Users\restrian\source\repos\appservicedemo\bin\Release\net7.0\publish\appservicedemo.deps.json
+C:\Users\restrian\source\repos\appservicedemo\bin\Release\net7.0\publish\appservicedemo.runtimeconfig.json
+C:\Users\restrian\source\repos\appservicedemo\bin\Release\net7.0\publish\appservicedemo.pdb
